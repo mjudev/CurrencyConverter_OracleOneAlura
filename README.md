@@ -1,4 +1,4 @@
-# CurrencyConversor_OracleOneAlura
+# CurrencyConverter_OracleOneAlura
 *Conversor de monedas simple realizado en Java luego de la culminación del primer curso en el trayecto Backend del programa OracleOneEducation.*
 
 ------------------------------------------------------------
