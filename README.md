@@ -8,8 +8,6 @@
 * Los valores de cambio se actualizan una vez al día.
 
 
-[!IMPORTANT]
-
 **DISCLAIMER USO API:**
  
 Para especificar la moneda, se utiliza la [codificación ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)
